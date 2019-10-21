@@ -17,7 +17,7 @@ page_sections:
   block: hero-2
   background_image: "/assets/images/abstract-dark-red-logo-design-on-black-background-video-animation-hd-1920x1080_ek5t-yjbl__F0008.png"
   image:
-    image: "/assets/images/group19.png"
+    image: "/assets/images/ace.jpg"
     alt_text: MINI MAP!!
   headline: Hero Banner requires your attention.
   content: Please read this content?<br>Hello.
