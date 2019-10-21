@@ -9,7 +9,9 @@ page_sections:
   logo: "/assets/images/ace.jpg"
   navigation:
   - link: "/"
-    link_text: AceDesignznDecor
+    link_text: Hi
+  - link: "/"
+    link_text: Bye
   cta:
     url: "/"
     button_text: CLICKME!
