@@ -6,7 +6,7 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   amp_mod: <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-latest.js"></script>
-  logo: "/assets/images/group.png"
+  logo: "/assets/images/ace.jpg"
   navigation:
   - link: "/"
     link_text: AceDesignznDecor
