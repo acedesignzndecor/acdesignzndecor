@@ -8,8 +8,8 @@ page_sections:
   amp_mod: <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-latest.js"></script>
   logo: "/assets/images/group.png"
   navigation:
-  - link: https://www.xkcd.com
-    link_text: XKCD
+  - link: https://www.google.com
+    link_text: Google
   cta:
     url: "/"
     button_text: CLICKME!
