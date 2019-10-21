@@ -29,7 +29,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   media:
-    image: "/assets/images/vlcsnap-2019-03-25-22h12m12s892.png"
+    image: "/assets/images/ace.jpg"
     alt_text: Featured Media
   headline: Featured Media requires your Attention
   content: "<p>hereby i declare</p><a>Featured MEDIA :O</a><p>praise!!!</p>"
@@ -37,7 +37,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   media:
-    image: "/assets/images/vlcsnap-2019-03-25-22h12m12s892.png"
+    image: "/assets/images/ace.jpg"
     alt_text: "?"
   content: Featured? Again!
   headline: Absolutely Dashin!
@@ -70,7 +70,7 @@ page_sections:
     content: Part 3 of 3
 - template: 4-column-footer
   block: footer-2
-  image: "/assets/images/abstract-dark-red-logo-design-on-black-background-video-animation-hd-1920x1080_ek5t-yjbl__F0008.png"
+  image: "/assets/images/ace.jpg"
   col_2: Set of links?
   col_3: Set of links...again :O
   col_4: Finally! some good content
