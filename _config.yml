@@ -1,0 +1,25 @@
+---
+title: Techyard
+author: Bhavya Saggi
+email: bhavyasaggi@gmail.com
+description: Tech-Junkie
+baseurl: "/"
+url: https://bhavyasaggi.github.io
+logo: "/assets/images/group.png"
+incremental: true
+sass:
+  sass_dir: _sass
+  style: compressed
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
+plugins:
+- jekyll-watch
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-import
+- jekyll-admin
+- jekyll-menus
+- jekyll-include-cache

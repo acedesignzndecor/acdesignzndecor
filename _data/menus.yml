@@ -1,0 +1,15 @@
+---
+main:
+- identifier: home
+  url: "/"
+  weight: 1
+  title: Home
+sidebar:
+- identifier: side-home
+  url: "/"
+  weight: 1
+  title: Home
+- identifier: side-about
+  url: "/about-us"
+  weight: 2
+  title: About us

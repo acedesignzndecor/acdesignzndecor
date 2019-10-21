@@ -1,0 +1,33 @@
+@import 'colors';
+.sidebar {
+  width: 85%;
+  padding: 10px;
+  background: $black-dark;
+  box-shadow: 2px 0px 4px 0px $gold-dark;
+  .logo {
+    margin-bottom: 10px;
+  }
+  ul >li {
+    position: relative;
+    padding: 10px 40px 10px 5px;
+    border-bottom: 1px dotted $gold-light;
+    &:after {
+      content: '▶';
+      position: absolute;
+      right: 0;
+      color: $gold-dark;
+    }
+    &:hover:after {
+      color: $gold-light;
+    }
+    &:last-of-type {
+      border-bottom: 0;
+    }
+  }
+  img {
+    object-fit: contain;
+  }
+  @media screen and (min-width:700px) {
+    width: 20%;
+  }
+}
