@@ -12,7 +12,7 @@
         <amp-carousel height="300" layout="fixed-height" type="slides" autoplay delay="2000">
           {%- for carouselimage in section.carousel -%}
           <amp-img src="{{ carouselimage | relative_url }}" alt="" layout="fixed-height" height="300"></amp-img>
-          {%- } %}
+          {%- endfor %}
         </amp-carousel>
       </div>
     </div>      
