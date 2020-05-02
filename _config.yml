@@ -1,10 +1,10 @@
 ---
-title: Techyard
-author: Bhavya Saggi
-email: bhavyasaggi@gmail.com
-description: Tech-Junkie
+title: AceDesignznDecor
+author: Ace
+email: acedesignzndecor@gmail.com
+description: AceDesignznDecor - Designing Experiences
 baseurl: "/"
-url: https://bhavyasaggi.github.io
+url: https://acedesignzndecor.com
 logo: "/assets/images/group.png"
 incremental: true
 sass:
