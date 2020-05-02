@@ -1,11 +1,13 @@
 <section id="features" class="block block-feature-2">
   <div class="container">
     <div class="columns">
-      <amp-carousel height="300" layout="fixed-height" type="slides" autoplay delay="2000">
-        {%- for carouselimage in section.carousel -%}
-        <amp-img src="{{ carouselimage | relative_url }}" alt="" layout="fixed-height" height="300"></amp-img>
-        {%- } %}
-      </amp-carousel>
+      <div class="column media">
+        <amp-carousel height="300" layout="fixed-height" type="slides" autoplay delay="2000">
+          {%- for carouselimage in section.carousel -%}
+          <amp-img src="{{ carouselimage | relative_url }}" alt="" layout="fixed-height" height="300"></amp-img>
+          {%- } %}
+        </amp-carousel>
+      </div>
       <div class="column text">
           <h2><span class="light">{{ section.headline }}</span></h2>
           <p>{{ section.content }}</p>
