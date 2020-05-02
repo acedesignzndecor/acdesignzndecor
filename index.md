@@ -7,14 +7,6 @@ page_sections:
   block: header-1
   logo: "/assets/images/ace.jpg"
   navigation: []
-- template: navigation-header-w-button
-  block: header-2
-  amp_mod: <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-latest.js"></script>
-  logo: "/assets/images/ace.jpg"
-  navigation: []
-  cta:
-    url: ''
-    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/assets/images/abstract-dark-red-logo-design-on-black-background-video-animation-hd-1920x1080_ek5t-yjbl__F0008.png"
