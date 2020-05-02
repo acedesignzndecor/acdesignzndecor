@@ -19,6 +19,25 @@ page_sections:
     enabled: false
     url: alert('HERO!!');
     button_text: Hero CTA
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: Working with varied division of experts for the purpose of stall designing
+    and fabrication, Ace has created a benchmark and challenged itself to create one
+    with every new project. With the flexible and highly experienced team members,
+    Ace never fails to deliver. With a history of reaching out Globally, Ace has performed
+    exceptionally well for the clients. With the whole idea of delivering tailor-made
+    designs for the stalls, clients have not only acknowledged the quality but also
+    the innovation we deliver in our designs as demanded by the on-going contemporary
+    trend.
+  headline: Why Us?
+  carousel:
+  - "/assets/images/shutterstock_1476592034.jpg"
+  - "/assets/images/shutterstock_373268854.jpg"
+  - "/assets/images/shutterstock_172976345.jpg"
+  media:
+    image: "/assets/images/ace.jpg"
+    alt_text: ''
 - template: detail-content
   block: text-1
   headline: About Us
@@ -29,16 +48,5 @@ page_sections:
     of exhibitions. Creativity and Intelligence being the two fundamentals of our
     business, Ace has delivered the zenith of perfection to its clients and has been
     lauded for the same.</p>"
-- template: 1-column-text
-  block: one-column-1
-  headline: Why Us?
-  content: Working with varied division of experts for the purpose of stall designing
-    and fabrication, Ace has created a benchmark and challenged itself to create one
-    with every new project. With the flexible and highly experienced team members,
-    Ace never fails to deliver. With a history of reaching out Globally, Ace has performed
-    exceptionally well for the clients. With the whole idea of delivering tailor-made
-    designs for the stalls, clients have not only acknowledged the quality but also
-    the innovation we deliver in our designs as demanded by the on-going contemporary
-    trend.
 
 ---
