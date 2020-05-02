@@ -35,9 +35,11 @@ page_sections:
   - "/assets/images/shutterstock_1476592034.jpg"
   - "/assets/images/shutterstock_373268854.jpg"
   - "/assets/images/shutterstock_172976345.jpg"
+  - "/assets/images/ace.jpg"
   media:
     image: "/assets/images/ace.jpg"
     alt_text: ''
+  amp_mod: ''
 - template: detail-content
   block: text-1
   headline: About Us
