@@ -31,6 +31,10 @@ fields:
   - type: text
     name: alt_text
     label: Alt text
+- name: carousel
+  type: image_gallery
+  config: {}
+  label: Carousel
 - type: select
   name: media_alignment
   config:
