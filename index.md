@@ -1,12 +1,20 @@
 ---
 layout: blocks
 title: Ace Designz n Decor - Designing Experiences
-date: 2019-12-31 18:30:00 +0000
+date: 2019-12-31T18:30:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
   logo: "/assets/images/ace.jpg"
   navigation: []
+- template: navigation-header-w-button
+  block: header-2
+  amp_mod: <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-latest.js"></script>
+  logo: ''
+  navigation: []
+  cta:
+    url: ''
+    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/assets/images/abstract-dark-red-logo-design-on-black-background-video-animation-hd-1920x1080_ek5t-yjbl__F0008.png"
