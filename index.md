@@ -5,6 +5,7 @@ date: 2019-12-31T18:30:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
+  amp_mod: <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-latest.js"></script>
   logo: "/assets/images/ace.jpg"
   navigation: []
 - template: hero-banner-w-image
@@ -21,7 +22,13 @@ page_sections:
     button_text: Hero CTA
 - template: content-feature
   block: feature-1
+  amp_mod: <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-latest.js"></script>
   media_alignment: Left
+  carousel:
+  - "/assets/images/shutterstock_172976345.jpg"
+  - "/assets/images/shutterstock_1476592034.jpg"
+  - "/assets/images/shutterstock_373268854.jpg"
+  headline: Why Us ?
   content: Working with varied division of experts for the purpose of stall designing
     and fabrication, Ace has created a benchmark and challenged itself to create one
     with every new project. With the flexible and highly experienced team members,
@@ -30,16 +37,6 @@ page_sections:
     designs for the stalls, clients have not only acknowledged the quality but also
     the innovation we deliver in our designs as demanded by the on-going contemporary
     trend.
-  headline: Why Us?
-  carousel:
-  - "/assets/images/shutterstock_1476592034.jpg"
-  - "/assets/images/shutterstock_373268854.jpg"
-  - "/assets/images/shutterstock_172976345.jpg"
-  - "/assets/images/ace.jpg"
-  media:
-    image: "/assets/images/ace.jpg"
-    alt_text: ''
-  amp_mod: ''
 - template: detail-content
   block: text-1
   headline: About Us
