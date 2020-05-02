@@ -21,7 +21,7 @@ page_sections:
     button_text: Hero CTA
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   content: Working with varied division of experts for the purpose of stall designing
     and fabrication, Ace has created a benchmark and challenged itself to create one
     with every new project. With the flexible and highly experienced team members,
