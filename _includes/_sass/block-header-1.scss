@@ -26,6 +26,10 @@
   max-height: 1.5rem
 }
 
+.block-header-1--logo amp-img img{
+  object-fit: contain
+}
+
 .block-header-1 .nav-item {
   display: inline-block;
   list-style: none;
