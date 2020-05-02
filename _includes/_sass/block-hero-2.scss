@@ -58,6 +58,10 @@
   width: 100%
 }
 
+.block-hero-2 .column.media amp-img img{
+  object-fit: contain
+}
+
 @media screen and (min-width:700px) {
   .block-hero-2 .column.text {
     -ms-flex: 0 0 45%;

@@ -12,9 +12,22 @@
   background-color: $gold-dark;
 }
 
+.block-header-1--sidebar {
+  display: inline-block;
+  height: 30px;
+  overflow: hidden;
+  font-size: 40px;
+  line-height: 30px;
+  color: $black-dark;
+}
+
 .block-header-1--logo amp-img {
   max-height: 24px;
   max-height: 1.5rem
+}
+
+.block-header-1--logo amp-img img{
+  object-fit: contain
 }
 
 .block-header-1 .nav-item {
