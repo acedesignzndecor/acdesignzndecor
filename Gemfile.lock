@@ -246,7 +246,7 @@ GEM
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
-    rubyzip (1.2.4)
+    rubyzip (2.0.0)
     safe_yaml (1.0.5)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
@@ -284,11 +284,9 @@ DEPENDENCIES
   github-pages
   jekyll-admin
   jekyll-feed
-  jekyll-gist
   jekyll-import
   jekyll-include-cache
   jekyll-menus
-  jekyll-seo-tag
   jekyll-sitemap
   jekyll-watch
   liquid-c
